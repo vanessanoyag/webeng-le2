@@ -1,0 +1,17 @@
+{
+  "name": "expressjs-lab",
+  "version": "1.0.0",
+  "description": "webeng lab exercise for expressjs topics",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha tests/**/*.js"
+  },
+  "author": "Arnelle Balane <arnellebalane@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0",
+    "sinon": "^2.1.0"
+  },
+  "dependencies": {}
+}
