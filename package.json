@@ -9,7 +9,9 @@
   "author": "Arnelle Balane <arnellebalane@gmail.com>",
   "license": "ISC",
   "devDependencies": {
+    "axios": "^0.16.1",
     "chai": "^3.5.0",
+    "cheerio": "^0.22.0",
     "mocha": "^3.3.0",
     "proxyquire": "^1.7.11",
     "sinon": "^2.1.0"
