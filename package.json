@@ -1,7 +1,7 @@
 {
-  "name": "expressjs-lab",
+  "name": "webeng-le2",
   "version": "1.0.0",
-  "description": "webeng lab exercise for expressjs topics",
+  "description": "webeng second long exam",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha tests/**/*.js"
