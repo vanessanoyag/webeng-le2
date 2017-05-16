@@ -16,5 +16,10 @@
     "proxyquire": "^1.7.11",
     "sinon": "^2.1.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "consolidate": "^0.14.5",
+    "express": "^4.15.2",
+    "nunjucks": "^3.0.0"
+  }
 }
